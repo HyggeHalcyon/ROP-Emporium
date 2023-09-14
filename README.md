@@ -12,4 +12,4 @@ The scripts are written in python3
 | badchars | ✅ | ✅ | ❌ | ❌ | bypassing blacklisted bytes | 
 | fluff | ❌ | ❌ | ❌ | ❌ | Description | 
 | pivot | ✅ | ✅ | ❌ | ❌ | stack pivoting | 
-| ret2csu | ❌ | ❌ | ❌ | ❌ | Description | 
+| ret2csu | ◼️ | ✅ | ❌ | ❌ | Description | 
