@@ -1,4 +1,4 @@
-# ROP Emporium Solutions
+# ROP Emporium
 
 These are my solution to the [ROP Emporium](https://ropemporium.com) challenges.  
 The scripts are written in python3
@@ -12,4 +12,4 @@ The scripts are written in python3
 | badchars | ✅ | ✅ | ❌ | ❌ | bypassing blacklisted bytes | 
 | fluff | ❌ | ❌ | ❌ | ❌ | Description | 
 | pivot | ✅ | ✅ | ❌ | ❌ | stack pivoting | 
-| ret2csu | ◼️ | ✅ | ❌ | ❌ | Description | 
+| ret2csu | ◼️ | ✅ | ❌ | ❌ | μROP | 
